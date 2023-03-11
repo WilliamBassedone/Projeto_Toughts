@@ -1,0 +1,31 @@
+
+
+
+# Meu Projeto
+
+Projeto Toughts desenvolvido no curso Node.js do Zero a Maestria com diversos Projetos do Hora de Codar
+
+## Arquitetura
+
+1. MVC
+
+## Tecnologias utilizadas
+
+1. Node.js
+2. Express
+3. Sequelize
+
+
+## Instalação
+
+1. Clone o repositório para o seu ambiente local
+2. Instale as dependências com `npm install`
+3. Execute o servidor local com `npm start`
+
+## Utilização
+
+Para usar o projeto, basta acessar o endereço `http://localhost:3000` no seu navegador da web.
+
+## Licença
+
+Este projeto é licenciado sob a licença MIT.
